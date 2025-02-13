@@ -59,9 +59,12 @@ UML Class and Sequence Diagrams
 
 
 Information for Grader to access the GitHub, the Source Code, and ReadMe
-https://github.com/naljubur/hw2.git
+Github for source code and ReadMe: https://github.com/naljubur/hw2.git
 
 
 HW2 Screencast
 Information for Grader to access the GitHub, the Screencast, and ReadMe
-
+ Screencast zoom: https://asu.zoom.us/rec/share/eeNQIYSqcbHPFKeWTcAxKRvr2tEe1vPTq8Z_0NhyyCKtZkGc7D9RVaw--9BDVfgt.dpj04ZYuId1Oq4Hg
+Passcode for zoom: &w#z9B9%
+Github
+https://github.com/naljubur/hw2.git
